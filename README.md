@@ -7,7 +7,6 @@ This is the third layer of a three-layer product:
 
 To run this layer, you do not have to rebuild the model in the first layer you can start from the [second layer](https://github.com/mazenelabd/hateguard-api).
 
-- Front-end code
 1. Make sure that the API is running from the previous layer then open another Command Prompt window
 
 2- Make sure that you have Node and npm installed on your machine
