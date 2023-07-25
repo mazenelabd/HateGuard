@@ -26,6 +26,14 @@ cd where-the-project-is-located-on-your-machine
 ```
 npm install
 ```
+6. Create ".env.local" file that includes:
+```
+EMAIL_USER=YOUREMAIL@DOMAIN.COM
+EMAIL_PASSWORD=THE_EMAIL_PASSWORD
+
+API_BASE_URL=http://127.0.0.1:5000/
+SECRET='YOUR SECRET KEY'
+```
 6. Build the Next.js application
 ```
 npm run build
