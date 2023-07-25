@@ -27,11 +27,13 @@ cd where-the-project-is-located-on-your-machine
 npm install
 ```
 6. Build the Next.js application
+```
 npm run build
-
+```
 7. start the application
+```
 npm start
-
+```
 8. Go to: "http://localhost:3000" in your browser.
 
 Now the project is running.
