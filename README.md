@@ -34,14 +34,14 @@ EMAIL_PASSWORD=THE_EMAIL_PASSWORD
 API_BASE_URL=http://127.0.0.1:5000/
 SECRET='YOUR SECRET KEY'
 ```
-6. Build the Next.js application
+7. Build the Next.js application
 ```
 npm run build
 ```
-7. start the application
+8. start the application
 ```
 npm start
 ```
-8. Go to: "http://localhost:3000" in your browser.
+9. Go to: "http://localhost:3000" in your browser.
 
 Now the project is running.
